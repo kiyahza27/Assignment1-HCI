@@ -8,4 +8,4 @@
    3. Lisa Arief (1313618033)
  
  # Task 1
-![Image of Task 1](https://github.com/kiyahza27/Assignment1-HCI/tree/master/Task%201%20(an%20Incident))
+[link] https://github.com/kiyahza27/Assignment1-HCI/tree/master/Task%201%20(an%20Incident)
