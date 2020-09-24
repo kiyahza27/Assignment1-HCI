@@ -33,7 +33,7 @@
     Mahasiswa             : Lalu, kakak kalau mendesign menggunakan design principle 
                             (mencakup visibility, feedback, constraint, consistency, affordance) atau gimana kak ?
     Narasumber (Kak Adzan): Iya betul, pake design sprint sekaligus design principle 
-    Mahasiswa             : Oh iya, tahapan tahapan untuk membuat UI/UX design itu apa aja si kak? Dari awal sampai digunakan sama client?
+    Mahasiswa            : Oh iya, tahapan tahapan untuk membuat UI/UX design itu apa aja si kak? Dari awal sampai digunakan sama client?
     Narasumber (Kak Adzan): 1. Emphatize
                             2. Define
                             3. Ideate
