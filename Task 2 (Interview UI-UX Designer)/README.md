@@ -17,7 +17,7 @@
                             2. Dasarnya nolong orang itu kan enak yah, seneng banget bisa bantu orang, apalagi orang banyak. 
                                Terus gimana caranya aku mau nolong orang banyak dengan skill yang aku punya, ya dengan UI/UX ini 
                                at least aku bisa sedikit membantu banyak orang.
-                            3. Empati, karena itu yang paling penting buat bener2 ikut paham dan ngerasain dari pemasalahan suatu orang
+                            3. Empati, karena itu yang paling penting buat bener-bener ikut paham dan ngerasain dari pemasalahan suatu orang
     Mahasiswa             : Kira kira kakak butuh waktu berapa lama untuk mengerjakan design ?
     Narasumber (Kak Adzan): Tergantung scopenya sih, tapi rata - rata kalau aku lagi nerapin design sprint aku butuh waktu 1 minggu.
     Mahasiswa             : Oke kak. Kakak kerja secara personal atau ber tim kak ?
@@ -48,11 +48,12 @@
     Mahasiswa             : Ternyata banyak juga aspek aspek yang diperluin. Terus, selama mengerjakan UI/UX design 
                             kakak/tim kakak menemukan kesulitan gak kak ? Kalau ada biasanya kesulitan nya apa dan di bagian mana kak ?
     Narasumber (Kak Adzan): iyaa jatohnya banyak banget yaa wkwk. kesulitan biasanya di problem solving nya zak.
-                            jadi kadang dari product owner yang kurang setuju karena satu alasan, atau bahkan paling fatalnya itu ketika 
-                            sebuah solusi yang kita design itu ga menjawab permasalahan user.
+                            jadi kadang dari product owner yang kurang setuju karena satu alasan, atau bahkan paling fatalnya itu 
+                            ketika sebuah solusi yang kita design itu ga menjawab permasalahan user.
     Mahasiswa             : Untuk mengerjakan UI/UX design, biasanya kakak menggunakan tools apa aja kak ?
     Narasumber (Kak Adzan): Aku biasanya pake figma atau adobe xd, adobe illustrator, photoshop, maze, dan mural
-    Mahasiswa		          : Oh iya, Apakah kakak menggunakan control theory (hubungan interaksi manusia dan komputer) dalam mengerjakan ui/ux design?
+    Mahasiswa		      : Oh iya, Apakah kakak menggunakan control theory (hubungan interaksi manusia dan komputer) 
+                            dalam mengerjakan ui/ux design?
     Narasumber (Kak Adzan): Iya pake zak
     Mahasiswa             : Bisa atau boleh gak kakak ngasih bukti tentang penggunaan control theory yang kakak pakai ?
     Narasumber (Kak Adzan): yang minor yaa contoh, kenapa menu (diaplikasi ibid) dibawah itu ada 5 dan yang dipilih adalah menu
@@ -64,7 +65,7 @@
                             karena itu udah ada riset sebelumnya mengenai kebutuhan user ketika berada di satu lingkup lelang. 
                             So, 5 item tadi disusun based on behaviour pengguna supaya lebih cepet dapet informasi dengan apa yang dia mau.
     Mahasiswa             : Terus untuk menjadi UI/UX design itu sendiri, dibutuhkan skill apa aja si kak ?
-    Narasumber (Kak Adzan): Hmm skill yang dibutuhin basicnya itu analytical thinking, empati, design, prototyping, riset, analisis, visualisasi
+    Narasumber (Kak Adzan): Skill yang dibutuhin basicnya itu analytical thinking, empati, design, prototyping, riset, analisis, visualisasi
     Mahasiswa             : Terakhir, di point interview di gambar ini kan disuruh meminta   project/design yg dibuat narasumber. 
                             Kalau boleh, bisa gak kak aku minta salah satu project/design yg pernah kakak buat ? 
                             Untuk keperluan belajar dan tugas mata kuliah aja kok kak. 
