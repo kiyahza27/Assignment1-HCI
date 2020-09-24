@@ -3,6 +3,7 @@
     Mahasiswa             : Pertama tama boleh perkenalkan diri kakak dulu gak kak ? Atau kalau gak keberatan boleh minta cv kakak ?
     Narasumber (Kak Adzan): Nama = Adzan Nugraha, Umur = 24 Tahun, Pekerjaan = UI/UX Designer, Asal = Bekasi
                             Hobi = Eksplore sesuatu yang baru, nolong orang, badminton, otomotif
+    Narasumber (Kak Adzan): CV.pdf [*terlampir*]
     Mahasiswa             : Yang kedua, kakak sudah berapa lama bekerja dibidang UI/UX designer kak ?
     Narasumber (Kak Adzan): Aku udah 2 tahun kerja di bidang UI/UX Designer
     Mahasiswa             : Untuk saat ini kakak bekerja dimana kak kalau boleh tau ?
