@@ -19,7 +19,7 @@ Pada desain asli, beban yang ada pada kedua selasar ditanggung oleh masing-masin
     Gambar perbedaan desain asli dan desain baru:
 ![Image of Desain Asli & Desain Baru](https://github.com/kiyahza27/Assignment1-HCI/blob/master/Task%201%20(an%20Incident)/Pict%20Task%201%20(an%20incident)/perbedaan%20desain%20asli%20dan%20desain%20baru.jpg)
 
-Perubahan ini membuat baut pada Box Girder lantai empat menopang berat kedua selasar sehingga dengan begitu banyak orang di selasar pada malam itu, beban pada selasar terlalu besar dan menyebabkan ambruk.
+Perubahan ini membuat baut pada Box Girder lantai empat menopang berat kedua selasar sehingga dengan begitu banyak orang di selasar pada malam itu, beban pada selasar terlalu besar dan menyebabkan ambruk. Jika saja saat itu tidak ada perubahan dari design aslinya, mungkin kecelakaan tersebut bisa dihindari dan bisa meneyelamatkan banyak nyawa yang melayang akibat perubahan design tersebut.
 
 # Berikut link mockup improvement dari kami:
 ![Image of Desain Error](https://github.com/kiyahza27/Assignment1-HCI/blob/master/Task%201%20(an%20Incident)/Pict%20Task%201%20(an%20incident)/desain%20hyatt%20hotel.jpg)
