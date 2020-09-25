@@ -1,4 +1,6 @@
 # Interview With Kak Adzan Nugraha (UI/UX Designer)
+Kami melakukan interview dengan narasumber melalui chat whatsapp dikarenakan keadaan dan situasi yang tidak memungkinkan untuk bertemu langsung dan juga dikarenakan narasumber
+hanya bisa melalukan interview dengan media chat whatsapp. Kami sudah menyimpan bukti interview di folder "Bukti Interview dengan Narasumber"
 
     Mahasiswa             : Pertama tama boleh perkenalkan diri kakak dulu gak kak ? Atau kalau gak keberatan boleh minta cv kakak ?
     Narasumber (Kak Adzan): Nama = Adzan Nugraha, Umur = 24 Tahun, Pekerjaan = UI/UX Designer, Asal = Bekasi
