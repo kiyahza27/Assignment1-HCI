@@ -10,6 +10,7 @@ Jika dilihat dengan seksama, ikon excavator berbentuk vector sedangkan ikon lain
 yaitu berbentuk vector. Agar terpenuhi salah satu aspect desirable yaitu satisfying pada User Experience Goals.
 
       Berikut Desain Improve yang kami buat pada ikon:
+      *Catatan: Kami membuat desain perbaikan pada ikon dengan mendapatkan ikon secara gratis di flaticon
   ![Image of Improve 1](https://github.com/kiyahza27/Assignment1-HCI/blob/master/Task%202%20(Interview%20UI-UX%20Designer)/Pict%20Improvement/improve%201.jpg)
 
 Selanjutnya, pada menu Live Auction garis pemisah antara lokasi dengan kategori kurang terlihat jelas. Menurut kami, akan lebih baik jika garis pemisah 
