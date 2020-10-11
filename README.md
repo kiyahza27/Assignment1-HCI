@@ -1,5 +1,5 @@
 # Assignment 1 HCI
-   1. Find an Incident about design error (past record)
-   2. Interview an Application Designer (UI/UX)
+https://github.com/kiyahza27/Assignment1-HCI/tree/hw1
 
 # Assignment 2 HCI
+https://github.com/kiyahza27/Assignment1-HCI/tree/hw2
