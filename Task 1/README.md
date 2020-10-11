@@ -39,3 +39,22 @@ Selanjutnya, bila ada pembeli barang akan dikirimkan langsung oleh admin kepada 
 
 # Use Case
 ![Image of Usecase](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/usecase%20(1).png)
+
+# Activity Diagram
+      Activity Diagram Login App
+![Image of ADLogin](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/Activity%20Diagram/AD%20login%20IMK.jpg)
+
+      Activity Diagram Register App
+![Image of ADregist](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/Activity%20Diagram/AD%20register%20IMK.jpg)
+
+      Activity Diagram Buying Product in App
+![Image of ADbuy](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/Activity%20Diagram/AD%20beli%20IMK.jpg)
+
+      Activity Diagram All Features in App
+![Image of Allfitur](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/Activity%20Diagram/AD%20all%20fitur%20IMK.jpg)
+
+
+
+
+
+
