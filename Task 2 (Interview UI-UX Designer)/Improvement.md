@@ -11,16 +11,16 @@ yaitu berbentuk vector. Agar terpenuhi salah satu aspect desirable yaitu satisfy
 
       Berikut Desain Improve yang kami buat pada ikon:
       *Catatan: Kami membuat desain perbaikan pada ikon dengan mendapatkan ikon secara gratis di flaticon
-  ![Image of Improve 1](https://github.com/kiyahza27/Assignment1-HCI/blob/master/Task%202%20(Interview%20UI-UX%20Designer)/Pict%20Improvement/improve%201.jpg)
+  ![Image of Improve 1](https://github.com/kiyahza27/Assignment1-HCI/blob/hw1/Task%202%20(Interview%20UI-UX%20Designer)/Pict%20Improvement/improve%201.jpg)
 
 Selanjutnya, pada menu Live Auction garis pemisah antara lokasi dengan kategori kurang terlihat jelas. Menurut kami, akan lebih baik jika garis pemisah 
 lebih ditebalkan agar memenuhi salah satu design principle yaitu Visibility sehingga memudahkan User untuk menggunakan fungsi pencarian lokasi pada menu Live Auction.
 
       Berikut Desain Improve yang kami buat pada fungsi pencarian lokasi:
-  ![Image of Improve 2](https://github.com/kiyahza27/Assignment1-HCI/blob/master/Task%202%20(Interview%20UI-UX%20Designer)/Pict%20Improvement/improve%202.jpg)
+  ![Image of Improve 2](https://github.com/kiyahza27/Assignment1-HCI/blob/hw1/Task%202%20(Interview%20UI-UX%20Designer)/Pict%20Improvement/improve%202.jpg)
 
 Perbaikan lainnya ialah, pemilihan warna pada beberapa fitur di halaman Home yang kurang teduh dan mencolok sehingga terlihat tidak cocok dengan warna lainnya [Gambar (a)]. 
 Selain itu, perbedaan logo IBID pada playstore dan logo aslinya setelah terinstall. Menurut kami, akan lebih baik jika logo IBID konsisten agar lebih mudah diingat [Gambar (b)].
 
       Berikut ini adalah tampilan atau hal-hal yang kurang menarik menurut kami:
-  ![Image of Improve 3](https://github.com/kiyahza27/Assignment1-HCI/blob/master/Task%202%20(Interview%20UI-UX%20Designer)/Pict%20Improvement/improve%203.jpg)
+  ![Image of Improve 3](https://github.com/kiyahza27/Assignment1-HCI/blob/hw1/Task%202%20(Interview%20UI-UX%20Designer)/Pict%20Improvement/improve%203.jpg)
