@@ -1,6 +1,6 @@
 # Key Business Process
 
-Aplikasi "Bisnis Pelajar" merupakan platform Reseller dan Dropship sehingga bisnis proses utama dalam aplikasi ini adalah user Membeli Produk. Semua produk yang tersedia pada "Bisnis Pelajar" dimikili oleh developernya sendiri.
+Aplikasi "Bisnis Pelajar" merupakan platform Reseller dan Dropship sehingga bisnis proses utama dalam aplikasi ini adalah user Membeli Produk. Semua produk yang tersedia pada "Bisnis Pelajar" dimiliki oleh developernya sendiri.
 Sebelum melakukan pembelian produk, user diharuskan untuk login terlebih dahulu. Setelah itu, aplikasi menampilkan katalog produk yang tersedia.Kemudian, user memilih produk yang ingin dipesan dan melakukan proses checkout yang disertai dengan pembayaran. 
 Setelah proses pemesanan selesai, user dapat melihat status pemesanan.
 
