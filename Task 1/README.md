@@ -35,5 +35,7 @@ Selanjutnya, bila ada pembeli barang akan dikirimkan langsung oleh admin kepada 
 ![Image of Reseller](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/Business%20Process%20Reseller.jpg)
 
 
-![Image of Reseller](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/Business%20Process%20Dropship.jpg)
+![Image of Dropship](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/Business%20Process%20Dropship.jpg)
 
+# Use Case
+![Image of Usecase](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/usecase%20(1).png)
