@@ -23,8 +23,8 @@ Secara garis besar, bisnis dalam aplikasi ini ialah memungkinkan user untuk menj
 Untuk Reseller, user membeli produk dengan jumlah besar untuk dijadikan stok dan menjualnya kembali dengan harapan mendapatkan keuntungan dari penjualan barangnya tersebut. Sedangkan untuk Dropship, user hanya melakukan proses promosi atau pemasaran tanpa harus mempunyai stok barang. 
 Selanjutnya, bila ada pembeli barang akan dikirimkan langsung oleh admin kepada pembeli. Gambar (1) dan (2) merupakan ilustrasi bisnis Reseller dan Dropship pada “Bisnis Pelajar”.
 
-  Gambar 1. Reseller
+
 ![Image of Reseller](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/Business%20Process%20Reseller.jpg)
 
-  Gambar 2. Dropship
+
 ![Image of Reseller](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/Business%20Process%20Dropship.jpg)
