@@ -8,7 +8,7 @@
    3. Lisa Arief (1313618033)
  
  # Task 1 (An Incident)
-[link] https://github.com/kiyahza27/Assignment1-HCI/tree/master/Task%201%20(an%20Incident)
+[link] https://github.com/kiyahza27/Assignment1-HCI/tree/hw1/Task%201%20(an%20Incident)
 
  # Task 2 (Interview With UI/UX Designer)
-[link] https://github.com/kiyahza27/Assignment1-HCI/tree/master/Task%202%20(Interview%20UI-UX%20Designer)
+[link] https://github.com/kiyahza27/Assignment1-HCI/tree/hw1/Task%202%20(Interview%20UI-UX%20Designer)
