@@ -6,7 +6,7 @@
    3. Lisa Arief (1313618033)
  
  # Task 1 (Use case, Activity Diagram, and Naration)
-
+https://github.com/kiyahza27/Assignment1-HCI/tree/hw2/Task%201
 
  # Task 2 (Report Sprint Design)
  https://github.com/kiyahza27/Assignment1-HCI/tree/hw2/Task%202
