@@ -9,3 +9,6 @@
 
 
  # Task 2 (Report Sprint Design)
+ 
+ # Link Streaming Video Record
+ 1st day: https://youtu.be/_eSBInXrSLo
