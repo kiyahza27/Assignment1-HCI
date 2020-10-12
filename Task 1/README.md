@@ -29,7 +29,7 @@ Untuk Reseller, user membeli produk dengan jumlah besar untuk dijadikan stok dan
 ![Image of Dropship](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/Business%20Process%20Dropship.jpg)
 
 # Use Case
-![Image of Usecase](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/usecase%20(1).png)
+![Image of Usecase](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%201/%5BBisnis%20Pelajar%5D%20usecase.png)
 
 # Activity Diagram
       Activity Diagram Login App
