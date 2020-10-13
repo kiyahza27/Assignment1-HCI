@@ -1,0 +1,204 @@
+
+00:00:03,000 --> 00:00:09,000
+Lisa: Before we start, thank you sir for taking your time to help us with our assignment. Once again, thank you so much
+
+00:00:10,000 --> 00:00:11,800
+Zaki: Thank you, sir
+
+00:00:15,000 --> 00:00:16,500
+Kak Beni: Ya
+
+00:00:17,000 --> 00:00:22,200
+Lisa: Ok, let's start with the introduction first because there are 2 other friends of mine from my group. 
+
+00:00:23,500 --> 00:00:32,800
+Lisa: So, my name is Lisa Arief who usually contact you from Computer Science State University of Jakarta. Please introduce yourself Zak, Nov
+
+00:00:34,000 --> 00:00:45,800
+Novi: My name is Novitasari, one of Lisa Arief's friends from the Human Interaction Computer Group. Thank you sir for your oppurtunity to help us
+
+00:00:46,900 --> 00:00:55,000
+Zaki: And my name is Zakiyah Hamidah, one of Lisa other friends group. There is only three of us.
+
+00:00:57,000 --> 00:00:59,500
+Lisa: Ok, let's start right away. 
+
+00:01:00,000 --> 00:01:12,000
+Lisa: For the technicalities later, we explain the improve design from us. When we finished, you can immediately provide feedback about our design
+
+00:01:16,000 --> 00:01:27,000
+Lisa: Here we were in accordance with the lecturer's direction. We designed it using the guiding principles in material design from Google.
+
+00:01:28,000 --> 00:01:38,000
+Lisa: First, there is Login page. We create our login page not much different from your design. 
+
+00:01:38,600 --> 00:01:50,200
+Lisa: But, in this page, we add SSO login via Goggle or other social media with aim of making it easier for users to register. 
+
+00:01:52,000 --> 00:02:02,400
+Lisa: Other than that, We changed the background from purple to white according to principle in the Material Design itself.
+
+00:02:03,800 --> 00:02:10,000
+Lisa: Next, there is Homepage. We changed quite a lot. 
+
+00:02:10,600 --> 00:02:30,200
+Lisa: First, it is in the category section, in the category section we create a card element accompanied by an image with margin 24dp and a separator between one category and another category around 15-20dp. 
+
+00:02:31,500 --> 00:02:37,400
+Lisa: So in one row, there are 3 categories. 
+
+00:02:38,000 --> 00:02:48,200
+Lisa: For running text, we not realized it because it is still a mockup, not a prototype. 
+
+00:02:48,800 --> 00:02:55,400 
+Lisa: So we can't describe it when it's implemented or run. 
+
+00:02:56,500 --> 00:03:16,200 
+Lisa: Next, Bottom navigator, we temporarily remove the explore or category section because the application is still empty in there so we don't know what to fill what content in that menu.
+
+00:03:17,500 --> 00:03:21,000 
+Lisa: For the next page, Novita please go ahead
+
+00:03:23,000 --> 00:03:26,000 
+Novi: Okay, I continue
+
+00:03:27,000 --> 00:03:35,500 
+Novi: In the homepage there's category section there are some that we need to fix. 
+
+00:03:36,000 --> 00:03:57,200 
+Novi: Because this is just a mockup, so we only add icons, such as the filter icon and sort icon and the cart icon to make it easier for users to see the items that have been added to the cart
+
+00:04:00,000 --> 00:04:13,200 
+Novi: Then at the bottom there is a location icon to show the location of the shop, so that the user doesn't search for its location . 
+
+00:04:14,000 --> 00:04:40,600 
+Novi: Then, there are additions such as writing empty stock, because in the aplication there were items that were out of stock but could still be put in the cart
+
+00:04:41,000 --> 00:04:46,000 
+Novi: This is just to make sure that the product is empty
+
+00:04:49,000 --> 00:04:51,200 
+Novi: Lisa, please continue
+
+00:05:11,000 --> 00:05:54,000 
+Novi: For the account, some are repaired like the color, namely changing the background and highlighting the header because if the header scrolls it will be consistent
+
+00:05:57,000 --> 00:06:05,500 
+Novi: There is an added icon above the account name, because previously there was only the initials of the user name
+
+00:06:06,000 --> 00:06:24,500 
+Novi: Then also has an icon in the invoice, sent, and success icon. This aims to divert the user's view so that the user knows what the menu is without reading the text
+
+00:06:25,000 --> 00:06:41,200 
+Novi: Then in my account section and others are given a container to make it look neat and show that it is one unit, because in the application there is no container and there are only lines
+
+00:06:42,000 --> 00:06:45,000
+Novi: So, the container is only to separate
+
+00:06:46,000 --> 00:07:00,000
+Novi: There's also in the background, in the application only purple and a little white. for this design only white and a little purple to distinguish the header and footer
+
+00:07:66,000 --> 00:07:07,600
+Lisa: already nov?
+
+00:07:08,000 --> 00:07:09,000
+Novi: Yes
+
+00:07:10,000 --> 00:07:12,000
+Lisa: Can be continued by zakiyah
+
+00:07:13,000 --> 00:07:27,500
+Zaki: From me, there are the last two. In the product page, here before there were three icons 
+
+00:07:28,000 --> 00:07:34,500
+Zaki: The three icon are above the product name. We decide to remove the icons
+
+00:07:35,000 --> 00:07:48,500
+Zaki: Also continue to display the size and color choices we make a little tidier
+
+00:07:51,000 --> 00:07:55,200
+Zaki: Then, we also add menu "add to cart" and "buy now" in the bottom
+
+00:07:56,400 --> 00:07:59,500
+Zaki: That's all for this product page 
+
+00:08:00,000 --> 00:08:08,500
+Zaki: Second,...... the last. In the transaction page, there's nothing has changed much
+
+00:08:09,000 --> 00:08:17,800
+Zaki: There is only an additional separation between the image and the description of the payment status
+
+00:08:18,000 --> 00:08:19,800
+Zaki: That's all from me
+
+00:08:21,000 --> 00:08:23,800
+Zaki: And that's enough
+
+00:08:26,000 --> 00:08:31,200
+Lisa: That's all for our design improvement. What is your feedback about our design sir?
+
+00:08:33,000 --> 00:08:52,200
+Ka Beni: It's good, but my advice is gives color combination more attention.
+
+00:08:53,000 --> 00:09:02,200
+Lisa: Ok, sir. For example, if you as a customer. Will you accept the design from us?
+
+00:09:06,600 --> 00:09:10,200
+Ka Beni: I'll accept it. It's good.
+
+00:09:12,600 --> 00:09:19,000
+Lisa: Are there any other additions regarding feedback ?
+
+00:09:22,000 --> 00:09:27,000
+Ka Beni: At least there is a little extra, namely in the initial display
+
+00:09:30,000 --> 00:09:38,500
+Novi: Yes sir, is there other feedback from you about our design. Maybe something we miss out. 
+
+00:09:39,000 --> 00:09:57,000
+Novi: As an developer application because we  only design the mockup. As i know, mockup and developer is different job
+
+00:09:58,000 --> 00:10:32,500
+Ka Beni: Yes. I think the design is less attractive. Like, give more color to make it giving off a festive feeling.
+
+00:10:33,000 --> 00:10:35,000
+Lisa: That's means in coloring.....
+
+00:10:36,000 --> 00:10:55,000
+Ka Beni: Yes, the color....... Other than that, i think it's enough
+
+00:10:56,000 --> 00:11:16,500
+Lisa: Can I ask something? Are all the products in this Application owned by yourself sir? Because there is no menu to user to input the product
+
+00:11:19,000 --> 00:11:30,400
+Ka Beni: Actually, it is my private shop. So user cannot input the product in there.
+
+00:11:33,000 --> 00:11:34,200
+Lisa: So, that means all products belong to you
+
+00:11:37,000 --> 00:11:39,000
+Ka Beni: Exactly"
+
+00:11:43,000 --> 00:11:54,000
+Novi: So, this is an application for reseller for getting the first hand price.
+
+00:11:55,000 --> 00:11:56,500
+Ka Beni: Yes
+
+00:11:58,000 --> 00:12:02,000
+Lisa: So the color selection is all your feedback, sir. Is it right?
+
+00:12:03,000 --> 00:12:05,200
+Ka Beni: Yes, just the color
+
+00:12:05,800 --> 00:12:07,000
+Lisa: To make it more interesting.
+
+00:12:08,000 --> 00:12:09,000
+Ka Beni: True
+
+00:12:10,000 --> 00:12:20,000
+Lisa: Ok, that's all for our assignment. The fourth day for the sprint design.
+
+00:12:22,800 --> 00:12:24,000
+Lisa: I will turn off the screen
