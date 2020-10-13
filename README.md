@@ -13,3 +13,6 @@ https://github.com/kiyahza27/Assignment1-HCI/tree/hw2/Task%201
  
  # Link Streaming Video Record
  1st day: https://youtu.be/_eSBInXrSLo
+ 2nd day: 
+ 3th day: https://youtu.be/BnXZkvA0wpA
+ 4th day: 
