@@ -60,7 +60,7 @@ Sebelum melakukan pembelian produk, user diharuskan untuk login terlebih dahulu.
 
 # Link Streaming Video Record
 1.    1st day: https://youtu.be/_eSBInXrSLo
-2.    2nd day: Naration about design Principal (https://github.com/kiyahza27/Assignment1-HCI/edit/hw2/Task%202/README.md)
+2.    2nd day: Naration about design Principal (https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%202/README.md)
 3.    3th day: https://youtu.be/BnXZkvA0wpA
 4.    4th day: https://youtu.be/jKnGoj6-dac
 
