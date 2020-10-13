@@ -1,4 +1,4 @@
-# [REPORT COMPETING] narasi (+compare gambar)
+# REPORT Task 2 (Day 2)
   
 # _Day 3 - Competing Design_
 Untuk hari ketiga design sprint kami lakukan pada tanggal 11 Oktober 2020. Dua diantara kami membuat design pada Aplikasi Bisnis Pelajar, yaitu Lisa dan Novitasati, sedangkan Zakiyah membantu dalam voting. Kami juga mengundang 2 orang lain selain team kami, yaitu Cindi dan Nila untuk membantu dalam pemilihan design.
