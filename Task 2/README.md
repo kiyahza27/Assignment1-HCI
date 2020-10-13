@@ -21,9 +21,10 @@ Berikut perbandingan Design 1 dan Design 2
 ![Image of productpage](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%202/Comparing%20Design/Product%20Page.jpg)
 
 Berikut hasil akhir dari voting yang kami dapatkan:
-Zakiyah: Design 1
-Cindi: Design 1
-Nila: Design 1
+
+    Zakiyah: Design 1
+    Cindi: Design 1
+    Nila: Design 1
 Maka, Design I terpilih sebagai design utama pada diskusi dengan customer (app developer).
 
 # Accepted Design Principle with Narasi
