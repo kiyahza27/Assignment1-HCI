@@ -1,0 +1,525 @@
+
+00:00:04,000 --> 00:00:15,800
+Lisa: We are from Group H Human-computer interaction want to vote. There are two other people who are not from our group to vote. 
+
+00:00:16,000 --> 00:00:20,800
+Lisa: Namely, Cindi and Nila. So, lets start now
+
+00:00:22,000 --> 00:00:23,800
+Lisa: Make me the host please
+
+00:00:34,000 --> 00:00:35,000
+Zaki: Done
+
+00:00:49,000 --> 00:01:01,600
+Lisa: First, I design based on the principles of material design from Google. First, color theme. There are three principle about color theme. 
+
+00:01:01,750 --> 00:01:12,000
+Lisa: Hierarchical, color indicates which elements are interactive. Legible, means text are clearly legible and Expressive, show the colors to prove the brand itself.
+
+00:01:12,500 --> 00:01:22,500
+Lisa: Because color theme of Bisnis Pelajar is purple so i decided the primary color is purple ......... like this.
+
+00:01:23,800 --> 00:01:28,800
+Lisa: Then for the secondary color, there is Tosca in another page which i can't show yet.
+
+00:01:29,000 --> 00:01:40,500
+Lisa: For variants of primary color, i choose slightly dark purple, like this in the sort words. Lastly, for additional color, I use white color for the background
+
+00:01:41,000 --> 00:01:51,800
+Lisa: For login is definitely closely related to field text. For the anatomy from material design, there are 5 item:
+
+00:01:52,000 --> 00:02:02,500
+Lisa: First, container. Second, Icon but optional. Third, Label text. Fourth, Input Text but it cannot be realized because it is still a mockup, not a prototype 
+
+00:02:02,980 --> 00:02:07,500
+Lisa: So, for example, if user fill the field text email address will raise for giving space user to fill.
+
+00:02:07,900 --> 00:02:15,200
+Lisa: And there is, Activation indicator and helper text is same, which is cannot be realized bcause it is still a mockup.
+
+00:02:16,600 --> 00:02:20,800
+Lisa: Then, for Field Text principle, there are 3 item. 
+
+00:02:21,000 --> 00:02:27,800
+Lisa: First, Discoverable. Text fields should stand out and indicate that users can input information
+
+00:02:28,000 --> 00:02:32,800
+Lisa: Second, Clear, Text Field sates should be clearly differentiated from one to another. Like. when it's empty or not
+
+00:02:33,000 --> 00:02:37,500
+Lisa: This cannot be realized, because it is still mockup 
+
+00:02:37,900 --> 00:02:42,800
+Lisa: Then, last, The Efficient. Text field should make it easy to understand for user to minimize errors.
+
+00:02:43,900 --> 00:02:47,500
+Lisa: The second principle applied to login is Button
+
+00:02:48,000 --> 00:02:55,000
+Lisa: First, Identifiable, button should indicate that they can trigger an action
+
+00:02:55,800 --> 00:03:01,200
+Lisa: Second, Findable, button should be easy to find. Then Clear, button's action and position should be clear to be seen by the user
+
+00:03:01,800 --> 00:03:06,600
+Lisa: For the anatomy, button is given a text and an icon
+
+00:03:07,800 --> 00:03:10,800
+Lisa: Next, The second page is a Home
+
+00:03:11,500 --> 00:03:26,600
+Lisa: For the header, the principle are first, Persistent, header appear at the top of each screen in an app, and can dissapear upon scroll. 
+
+00:03:27,000 --> 00:03:33,000
+Lisa: Then Guiding, header provide a realble way to guid users through an app. Like, this back button.
+
+00:03:34,000 --> 00:03:40,000
+Lisa: Last, Consistent position and content. So all of this must have a header
+
+00:03:41,000 --> 00:03:47,400
+Lisa: For the anatomy there is container, icon and for icon in my design i made a text as icon.
+
+00:03:47,700 --> 00:03:52,800
+Lisa: Name (optional), action items, and overflow menu. For overflow menu is not realized in this app.
+
+00:03:53,200 --> 00:04:00,800
+Lisa: Next, there is button navigation. The principle are ergomic, consistent, and related.
+
+00:04:01,200 --> 00:04:03,800
+Lisa: Ergomic, means bottom navigation is easy to reach, not to small and clear.
+
+00:04:04,000 --> 00:04:09,600
+Lisa: Consistent. Related, means every navigation must be equally important.
+
+00:04:10,000 --> 00:04:16,800
+Lisa: For the anatomy, there is inaction icon and inaction text. 
+
+00:04:17,000 --> 00:04:34,600
+Lisa: Action text and action icon can be distingushable by color with short labels. Fill with primary color and contrast color for differentiation. In here i chose Black and White
+
+00:04:35,000 --> 00:04:39,000
+Lisa: For homepage, the second principle that i used is layout:
+
+00:04:41,200 --> 00:04:46,700
+Lisa: First, predictable, the layout is intuitive or understandable to the user. 
+
+00:04:47,000 --> 00:04:54,400
+Lisa: Second, Consistent And Responsive, which is cannot be realized because it's still mockup
+
+00:04:54,800 --> 00:05:02,800
+Lisa: Then for margin in layout is 24dp. And for the gutters is around 15dp.
+
+00:05:03,400 --> 00:05:07,200
+Lisa: Next, is for the category, i made with a card.
+
+00:05:07,800 --> 00:05:16,800
+Lisa: For principle, there are 3 item too. Contained, a card is identifiable as a single, contained unit.
+
+00:05:17,500 --> 00:05:22,600
+Lisa: Second, Independent, a card can stand alone, without relying on surrounding elements for context.
+
+00:05:23,200 --> 00:05:29,400
+Lisa: Individual, a card cannot merge with another card, or divide into multiple card.
+
+00:05:30,500 --> 00:05:33,800
+Lisa: Then for the second, is product selection page.
+
+00:05:37,000 --> 00:05:40,800
+Lisa: The principle that i use in this page are image
+
+00:05:41,000 --> 00:05:44,800
+Lisa: That image especially should informative, image can helps convey a clear message
+
+00:05:45,000 --> 00:05:51,000
+Lisa: Delighful, interesting picture And the third is Intentional
+
+00:05:51,600 --> 00:05:56,500
+Lisa: For anatomy are First, container. Then the text label.
+
+00:05:57,000 --> 00:06:16,000
+Lisa: Third, actionable icon (like, a favourite icon. But, i decided not to put favourite icon because there is already "NEW" mark)
+
+00:06:17,000 --> 00:06:20,000
+Lisa: Next, Text protection for the separator. 
+
+00:06:21,000 --> 00:06:25,000
+Lisa: And the image itself
+
+00:06:27,000 --> 00:06:30,000
+Lisa: Lastly, there is an account page
+
+00:06:31,000 --> 00:06:33,500
+Lisa: The principle i used is card, which is same like before. 
+
+00:06:34,000 --> 00:06:48,000
+Lisa: Usually in other application, there is a background behind the account page. But, i chose not to use the background because there is already too many colors like invoice, sent, and successful text. 
+
+00:06:49,500 --> 00:06:55,000
+Lisa: So that's it my improve design
+
+00:06:56,000 --> 00:06:58,000
+Zaki: Lisa, can i ask something ?
+
+00:06:59,000 --> 00:07:00,800
+Lisa: Ya
+
+00:07:02,000 --> 00:07:09,500
+Zaki: In your improve design. The bottom navigation are Home, Transaction, and Account. 
+
+00:07:10,000 --> 00:07:15,500
+Zaki: But, in real Bisnis Pelajar application there is an Explore page. Why did you decided to remove the explore page?
+
+00:07:16,000 --> 00:07:18,500
+Zaki: I mean, what is the reason you decided to remove that ?
+
+00:07:19,000 --> 00:07:23,500
+Lisa: Ok, Actually i remove explore page because i cannot describe what content should i put in there. 
+
+00:07:24,000 --> 00:07:36,800
+Lisa: Because i design based on the real app, Bisnis Pelajar, as we know in that app explore page is still empty. 
+
+00:07:37,400 --> 00:07:42,000
+Lisa: So decided to remove that page and skip that page.
+
+00:07:46,400 --> 00:07:50,400
+Zaki: For Cindi and Nila, anyone want to ask?
+
+00:07:50,800 --> 00:07:54,200
+Cindi: Is this marketplace platform ?
+
+00:07:55,000 --> 00:07:58,000
+Nila: Could you show me the real app first ?
+
+00:07:58,800 --> 00:08:04,400
+Cindi: Agree, because i can't describe it what platform is this, is this marketplace ? 
+
+00:08:05,000 --> 00:08:08,000
+Zaki: Oooh sure. Lisa, what application is this ?
+
+00:08:07,000 --> 00:08:09,800
+Lisa: Actually, it's Reseller App
+
+00:08:10,500 --> 00:08:11,800
+Cindi: Oh ?
+
+00:08:13,200 --> 00:08:15,000
+Zaki: Lisa, share screen the app please ?
+
+00:08:15,000 --> 00:08:16,000
+Lisa: Ok, wait a minute
+
+00:08:26,000 --> 00:08:27,800
+Lisa: Like this
+
+00:08:38,000 --> 00:08:39,600
+Lisa: Is that visible?
+
+00:08:40,800 --> 00:08:41,600
+Cindi: Visible 
+
+00:09:18,600 --> 00:09:25,500
+Zaki: How is cindi and nila ? does anyone want to give advice or what ?
+
+00:09:31,000 --> 00:09:33,800
+Zaki: or want to continue to Novi?
+
+00:09:35,000 --> 00:09:37,000
+Cindi: Go Ahead, yes nil ?
+
+00:09:41,000 --> 00:09:43,500
+Nila: Eeeh I want to see the previous design 
+
+00:09:44,000 --> 00:09:46,400
+Zaki: The improved design?
+
+00:09:46,400 --> 00:09:47,000
+Nila: Yes
+
+00:10:52,000 --> 00:10:55,000
+Nila: Is the category section removed ?
+
+00:10:57,000 --> 00:10:58,800
+Nila: or combined with the homepage ?
+
+00:11:01,800 --> 00:11:05,500
+Lisa: If I'm not mistaken, yesterday this menu was named explore
+
+00:11:06,000 --> 00:11:11,000
+Novi: That category was on the homepage
+
+00:11:15,000 --> 00:11:17,800
+Lisa: If I'm not mistaken, yesterday this menu was named explore
+
+00:11:18,000 --> 00:11:25,600
+Zaki: Yesterday, that menu was an explore. The menu was only home, explore, transactions, and this account
+
+00:11:26,000 --> 00:11:28,000
+Zaki: And It looks like just been update
+
+00:11:28,000 --> 00:11:30,800
+Nila: Is the explore menu to find something ?
+
+00:11:31,000 --> 00:11:40,200
+Zaki: I don't know, because it's still empty, there's nothing
+
+00:11:46,000 --> 00:11:47,200
+Nila: Oke, thanks lis
+
+00:11:46,000 --> 00:11:51,000
+Zaki: So how ? let's continued to novi
+
+00:11:57,000 --> 00:12:00,000
+Zaki: Okay novi, please explain
+
+00:12:01,000 --> 00:12:15,800
+Novi: some of these are fixed, there are login, home, account, and product views
+
+00:12:16,000 --> 00:12:38,200
+Novi: First login can't be shown, yesterday in the section login only there is a logo, email and password
+
+00:12:38,800 --> 00:12:58,000
+Novi: So here an icon is added such as an account icon and a lock icon
+
+00:12:59,000 --> 00:13:07,000
+Novi: Then there is a login using google because there is nothing in the application. So I put there
+
+00:13:08,000 --> 00:13:27,500
+Novi: Then for color, initially only purple, then I was given a gradient purple, blue, and white. So it is not only purple
+
+00:13:28,000 --> 00:13:33,000
+Novi: Next, Slide 2, please lisa
+
+00:13:34,800 --> 00:13:56,500
+Novi: This home section. In the application there is only title, but here are added icons such as the need for the house and the container is repaired
+
+00:13:57,000 --> 00:14:15,500
+Novi: Then, running text is not added here, because here the running text is nothing, it only displays the name of the application , therefore I eliminated that 
+
+00:14:17,000 --> 00:14:26,500
+Novi: That's all, the color is also not only purple, but uses the gradient and the color is consistent
+
+00:14:27,000 --> 00:14:40,500
+Novi: For the top up balance, a wallet icon is given and balance addition
+
+00:14:41,000 --> 00:14:43,500
+Novi: Next lis
+
+00:14:47,000 --> 00:15:06,500
+Novi: Then, in the account section of the application only there is a description and no icon. so here I add an icon. 
+
+00:15:07,000 --> 00:15:20,800
+Novi: On top of that the color is the same as before and is still consistent, and an icon is added to the invoice, send, and success
+
+00:15:21,000 --> 00:15:43,800
+Novi: And adds a thickening line to make it visible and distinguishes between my information and location so that it becomes a barrier because in the  application was not visible
+
+00:15:45,000 --> 00:16:11,000
+Novi: One more and the last, just add the search menu above, the container is fixed and the image is given a frame to make it look good
+
+00:16:11,800 --> 00:16:34,800
+Novi: There is also a location icon to show the location and also a description of the stock out. because in the applicatione that are out of stock but can still be put into the cart
+
+00:16:35,400 --> 00:16:42,200
+Novi: Last,  the color is still like that. I means the color still purple but given a gradation.
+
+00:16:43,000 --> 00:16:45,000
+Novi: Okay, it's enough from me
+
+00:16:48,400 --> 00:16:50,000
+Zaki: Are you finished Nov?
+
+00:16:51,200 --> 00:16:52,200
+Novi: Yes
+
+00:16:53,200 --> 00:16:59,200
+Zaki: Nila and Cindi, Do you want to give response or what ?
+
+00:17:00,200 --> 00:17:03,200
+Nila: Are we immediately give response to both of them or what ?
+
+00:17:05,000 --> 00:17:06,000
+Zaki: It's up to you
+
+00:17:06,000 --> 00:17:09,000
+Novi: Directly is also fine 
+
+00:17:14,000 --> 00:17:19,000
+Novi: We will approve, so just tell me why you choose it
+
+00:17:19,500 --> 00:17:21,000
+Zaki: Or do we immediately voting?
+
+00:17:22,000 --> 00:17:25,000
+Zaki: Then give the response 
+
+00:17:25,000 --> 00:17:27,500
+Novi: Yes, but when you choose, tell the reason
+
+00:17:29,000 --> 00:17:31,500
+Nila: Okay, but who the first ? hehehe
+
+00:17:33,000 --> 00:17:40,000
+Zaki: So, let's just vote. Starting from me.
+
+00:17:42,000 --> 00:17:54,400
+Zaki: For me, I choose .... mmm I means, I'm more interested with Lisa's design
+
+00:17:55,000 --> 00:17:59,000
+Zaki: Even though, both of them looks good. But maybe .......
+
+00:18:07,000 --> 00:18:18,500
+Zaki: Maybe, I think Lisa's design more colorful
+
+00:18:18,200 --> 00:18:24,500
+Zaki: Then, the icons more nice because they are animated
+
+00:18:24,800 --> 00:18:33,000
+Zaki: And there are also boundaries that separate between the header, main menu, and footer
+
+00:18:34,800 --> 00:18:42,000
+Zaki: Then in Novi's design, there is a deficiency, namely in the word top up balance is not visible
+
+00:18:42,600 --> 00:18:43,400
+Zaki: In account page
+
+00:18:46,000 --> 00:18:53,000
+Zaki: Nah, in my top up balance, the word is not visible because the color doesn't matched
+
+00:18:53,400 --> 00:18:55,000
+Zaki: That's all from me
+
+00:19:00,000 --> 00:19:08,200
+Zaki: So, I'm more prefer to Lisa's design
+
+00:19:10,000 --> 00:19:12,000
+Zaki: Next
+
+00:19:14,000 --> 00:19:16,400
+Zaki: Nila or Cindi first ?
+
+00:19:19,000 --> 00:19:20,000
+Nila: Nila
+
+00:19:19,000 --> 00:19:20,000
+Novi: Maybe Nila first
+
+00:19:22,000 --> 00:19:23,000
+Nila: Ohh okay
+
+00:19:24,000 --> 00:19:31,000
+Nila: This is just my own personal sight. If something goes wrong, please forgive me haha.
+
+00:19:32,800 --> 00:19:39,000
+Nila: Beforehand, i want to tell u first about the deficiency in my opinion
+
+00:19:39,600 --> 00:19:54,000
+Nila: From Lisa's design, in the icon.........please Lisa, the icon in the profile
+
+00:19:55,000 --> 00:20:04,200
+Nila: On the profile the icon looks like different. On the left icon, it doesn't have a circle
+
+00:20:04,500 --> 00:20:06,200
+Nila: The icon in the middle has a shadow
+
+00:20:06,800 --> 00:20:09,800
+Nila: Then icon in the right has a circle but no shadow.
+
+00:20:10,000 --> 00:20:14,800
+Nila: So, in my opinion, if there is an icon, it is better to match it
+
+00:20:15,500 --> 00:20:28,000
+Nila: Then, there is also an icon that is dragged on the homepage. Like doesn't match
+
+00:20:28,900 --> 00:20:30,800
+Nila: Then, for the rest it's good
+
+00:20:31,800 --> 00:20:38,200
+Nila: Then switch to Novi's design. I think it's good too. There are gradations
+
+00:20:38,900 --> 00:20:43,600
+Nila: But, in the login section, the shape is square
+
+00:20:44,000 --> 00:20:56,000
+Nila: While, in my opinion the shape is better rounded at the edges
+
+00:20:55,000 --> 00:20:56,000
+Novi: Rounded right?
+
+00:20:56,600 --> 00:21:00,800
+Nila: Yes, so it looks unified and doesn't look like a patch
+
+00:21:01,000 --> 00:21:07,000
+Nila: And then keep the icons more customizable
+
+00:21:07,900 --> 00:21:19,200
+Nila: Then, at the top........ in homepage, the title is "Bisnis Pelajar" and the word under it is not visible
+
+00:21:20,200 --> 00:21:22,000
+Nila: Yes, there
+
+00:21:22,800 --> 00:21:23,800
+Nila: That's all
+
+00:21:24,200 --> 00:21:32,000
+Nila: So, I choose the first design
+
+00:21:33,000 --> 00:21:37,000
+Zaki: Whose the design ? to be clearer
+
+00:21:38,000 --> 00:21:39,000
+Nila: Lisa's design
+
+00:21:41,000 --> 00:21:43,000
+Zaki: How about you cindi ?
+
+00:21:43,900 --> 00:21:50,600
+Cindi: Ya, maybe as previously said by Zakiyah and Nila, and it's not much different
+
+00:21:51,200 --> 00:22:07,600
+Cindi: That's true what Nila (not lisa) has said, for the icon there is an inconsistency and maybe later in the future it will be fixed again about the consistency of the icon
+
+00:22:08,000 --> 00:22:21,500
+Cindi: Then for novi's design, in my opinion the fields size is too large, like the search box, 
+
+00:22:21,950 --> 00:22:36,500
+Cindi: The icon which is on the homepage, explore, transaction and account on the bottom is too large, so it makes doesn't quite fit
+
+00:22:37,000 --> 00:22:55,000
+Cindi: So, Actually, there are many things that can fit in one view, but because the icon is too large, there are only a few that can be displayed, even though there are actually more.
+
+00:22:56,000 --> 00:23:05,400
+Cindi: And maybe it has already been said to the others, I will immediately vote if I prefer to choose the first design
+
+00:23:07,000 --> 00:23:08,800
+Cindi: The desaign....
+
+00:23:10,000 --> 00:23:11,800
+Zaki: Whose the design cindi ?
+
+00:23:12,800 --> 00:23:14,000
+Cindi: Lisa's design
+
+00:23:16,900 --> 00:23:30,200
+Zaki: So, from 3 voters the result was Lisa's design chosen by 3 people.
+
+00:23:31,200 --> 00:23:47,500
+Zaki: So today's voting results might be submitted...... I means to show it to the developer to ask for feedback, we will use the design from Lisa Arief
+
+00:23:48,000 --> 00:23:55,000
+Zaki: That's all from today's video, more or less we apologize, we will close
+
+00:23:56,000 --> 00:23:57,000
+Novi: Thank u cindi and nila
+
+00:23:57,000 --> 00:24:01,500
+Zaki: Yap, Thanks to Cindi and Nila for join with us
+
+00:24:04,000 --> 00:24:06,000
+Zaki: Okey, let's just end it
+
+00:24:08,000 --> 00:24:10,600
+Zaki: Assalamualikum wr.wb
+
+00:24:11,000 --> 00:24:14,00
+All: Waalaikumsalam wr.wb
