@@ -1,4 +1,3 @@
-# Task 2 (Report Sprint Design)
 # [REPORT COMPETING] narasi (+compare gambar)
   
 # _Day 3 - Competing Design_
