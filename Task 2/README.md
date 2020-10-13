@@ -7,6 +7,7 @@ Design 1: Dibuat dengan Figma
 Design 2: Dibuat dengan Canva
 
 Berikut perbandingan Design 1 dan Design 2
+                        
     1.	Login Page
 ![Image of login](https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%202/Comparing%20Design/login%20page.jpg)
 
