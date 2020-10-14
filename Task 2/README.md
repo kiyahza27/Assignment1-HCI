@@ -6,15 +6,15 @@ Hasil Record: (https://www.youtube.com/watch?v=_eSBInXrSLo&feature=youtu.be)
 # _Day 2 (Two Design Items Implement Material Design)_  
 2 Design Mockup ini Dikerjakan oleh Lisa Arief dan Novitasari
 
-        https://github.com/kiyahza27/Assignment1-HCI/tree/hw2/Task%202/Improve%20Design%20(Pdf%20%26%20Asli)
+https://github.com/kiyahza27/Assignment1-HCI/tree/hw2/Task%202/Improve%20Design%20(Pdf%20%26%20Asli)
         
 Design 1 dikerjakan oleh Lisa Arief 
 
-        (https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%202/Improve%20Design%20(Pdf%20%26%20Asli)/%5BBisnis%20Pelajar%5D%20Improve%20Design%201.pdf)
+(https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%202/Improve%20Design%20(Pdf%20%26%20Asli)/%5BBisnis%20Pelajar%5D%20Improve%20Design%201.pdf)
 
 Design 2 dikerjakan oleh Novitasari
 
-        (https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%202/Improve%20Design%20(Pdf%20%26%20Asli)/%5BBisnis%20Pelajar%5D%20Improve%20Design%202.pdf)
+(https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%202/Improve%20Design%20(Pdf%20%26%20Asli)/%5BBisnis%20Pelajar%5D%20Improve%20Design%202.pdf)
 
 # _Day 3 - Competing Design_
 Hasil Record: (https://youtu.be/BnXZkvA0wpA)
@@ -83,9 +83,7 @@ Nama Developer: Kak Beni
 
 Nama Aplikasi: Bisnis Pelajar
 
-Hasil Record: 
-
-    (https://youtu.be/jKnGoj6-dac)
+Hasil Record: (https://youtu.be/jKnGoj6-dac)
 
 # Link Streaming Video Record
 1.    1st day: https://youtu.be/_eSBInXrSLo
