@@ -1,14 +1,25 @@
 # REPORT TASK 2 (Day 1 - 4)
 
 # _Day 1 - Apps Does Solving Problem_
-Tanggal Record: 
-    https://www.youtube.com/watch?v=_eSBInXrSLo&feature=youtu.be  
+Hasil Record: https://www.youtube.com/watch?v=_eSBInXrSLo&feature=youtu.be  
   
-# _Day 2 - Competing Design_
+# _Day 2 (Two Design Items Implement Material Design)_  
+2 Design Mockup ini Dikerjakan oleh Lisa Arief dan Novitasari
+        https://github.com/kiyahza27/Assignment1-HCI/tree/hw2/Task%202/Improve%20Design%20(Pdf%20%26%20Asli)
+        
+Design 1 dikerjakan oleh Lisa Arief 
+        (https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%202/Improve%20Design%20(Pdf%20%26%20Asli)/%5BBisnis%20Pelajar%5D%20Improve%20Design%201.pdf)
+
+Design 2 dikerjakan oleh Novitasari
+        (https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%202/Improve%20Design%20(Pdf%20%26%20Asli)/%5BBisnis%20Pelajar%5D%20Improve%20Design%202.pdf)
+
+# _Day 3 - Competing Design_
+Hasil Record: (https://youtu.be/BnXZkvA0wpA)
+
 Untuk hari ketiga design sprint kami lakukan pada tanggal 11 Oktober 2020. Dua diantara kami membuat design pada Aplikasi Bisnis Pelajar, yaitu Lisa dan Novitasati, sedangkan Zakiyah membantu dalam voting. Kami juga mengundang 2 orang lain selain team kami, yaitu Cindi dan Nila untuk membantu dalam pemilihan design.
 
-Design 1: Dibuat dengan Figma
-Design 2: Dibuat dengan Canva
+Design 1 (Lisa Arief): Dibuat dengan Figma
+Design 2 (Novitasari): Dibuat dengan Canva
 
 Berikut perbandingan Design 1 dan Design 2
                         
@@ -62,12 +73,15 @@ Key Features-> Membeli Produk
 
 Sebelum melakukan pembelian produk, user diharuskan untuk login terlebih dahulu. Setelah itu, aplikasi menampilkan katalog produk dengan keterangan tersedia atau stok kosong. Kemudian, user memilih produk yang ingin dipesan. Selanjutnya, user diwajibkan untuk memilih variasi dari produk yang dipesan seperti warna dan ukuran sehingga tidak boleh kosong untuk meminimalisir kesalahan. Terakhir, user melakukan proses checkout yang disertai dengan pembayaran. Setelah proses pemesanan selesai, user dapat melihat status pemesanan.
 
-# _Day 3 (Voting Via Zoom)_
-Tanggal Record:
+# _Day 4 (Recording with The Developer Via Zoom)_
+Tanggal Record: 12 Oktober 2020
+Nama Developer: Kak Beni
+Nama Aplikasi: Bisnis Pelajar
+Hasil Record: (https://youtu.be/jKnGoj6-dac)
 
 # Link Streaming Video Record
 1.    1st day: https://youtu.be/_eSBInXrSLo
-2.    2nd day: Naration about design Principal (https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%202/README.md)
+2.    2nd day: Naration about Design Principal (https://github.com/kiyahza27/Assignment1-HCI/blob/hw2/Task%202/README.md)
 3.    3th day: https://youtu.be/BnXZkvA0wpA
 4.    4th day: https://youtu.be/jKnGoj6-dac
 
