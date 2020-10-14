@@ -1,4 +1,8 @@
-# REPORT Task 2 (Day 2)
+# REPORT TASK 2 (Day 1 - 4)
+
+# _Day 1 - Apps Does Solving Problem_
+Tanggal Record: 
+    https://www.youtube.com/watch?v=_eSBInXrSLo&feature=youtu.be  
   
 # _Day 2 - Competing Design_
 Untuk hari ketiga design sprint kami lakukan pada tanggal 11 Oktober 2020. Dua diantara kami membuat design pada Aplikasi Bisnis Pelajar, yaitu Lisa dan Novitasati, sedangkan Zakiyah membantu dalam voting. Kami juga mengundang 2 orang lain selain team kami, yaitu Cindi dan Nila untuk membantu dalam pemilihan design.
@@ -57,6 +61,9 @@ Pada akun page, sama seperti prinsip yang dipakai adalah card, pada bagian infor
 Key Features-> Membeli Produk
 
 Sebelum melakukan pembelian produk, user diharuskan untuk login terlebih dahulu. Setelah itu, aplikasi menampilkan katalog produk dengan keterangan tersedia atau stok kosong. Kemudian, user memilih produk yang ingin dipesan. Selanjutnya, user diwajibkan untuk memilih variasi dari produk yang dipesan seperti warna dan ukuran sehingga tidak boleh kosong untuk meminimalisir kesalahan. Terakhir, user melakukan proses checkout yang disertai dengan pembayaran. Setelah proses pemesanan selesai, user dapat melihat status pemesanan.
+
+# _Day 3 (Voting Via Zoom)_
+Tanggal Record:
 
 # Link Streaming Video Record
 1.    1st day: https://youtu.be/_eSBInXrSLo
