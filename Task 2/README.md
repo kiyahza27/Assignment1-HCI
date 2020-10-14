@@ -3,7 +3,7 @@
 # _Day 1 - Apps Does Solving Problem_
 Hasil Record: (https://www.youtube.com/watch?v=_eSBInXrSLo&feature=youtu.be)  
   
-# _Day 2 (Two Design Items Implement Material Design)_  
+# _Day 2 - Two Design Items Implement Material Design_  
 2 Design Mockup ini Dikerjakan oleh Lisa Arief dan Novitasari
 
 https://github.com/kiyahza27/Assignment1-HCI/tree/hw2/Task%202/Improve%20Design%20(Pdf%20%26%20Asli)
@@ -76,7 +76,7 @@ Key Features-> Membeli Produk
 
 Sebelum melakukan pembelian produk, user diharuskan untuk login terlebih dahulu. Setelah itu, aplikasi menampilkan katalog produk dengan keterangan tersedia atau stok kosong. Kemudian, user memilih produk yang ingin dipesan. Selanjutnya, user diwajibkan untuk memilih variasi dari produk yang dipesan seperti warna dan ukuran sehingga tidak boleh kosong untuk meminimalisir kesalahan. Terakhir, user melakukan proses checkout yang disertai dengan pembayaran. Setelah proses pemesanan selesai, user dapat melihat status pemesanan.
 
-# _Day 4 (Recording with The Developer Via Zoom)_
+# _Day 4 - Recording with The Developer Via Zoom_
 Tanggal Record: 12 Oktober 2020
 
 Nama Developer: Kak Beni
