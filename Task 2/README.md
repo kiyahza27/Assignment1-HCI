@@ -21,8 +21,9 @@ Hasil Record: (https://youtu.be/BnXZkvA0wpA)
 
 Untuk hari ketiga design sprint kami lakukan pada tanggal 11 Oktober 2020. Dua diantara kami membuat design pada Aplikasi Bisnis Pelajar, yaitu Lisa dan Novitasati, sedangkan Zakiyah membantu dalam voting. Kami juga mengundang 2 orang lain selain team kami, yaitu Cindi dan Nila untuk membantu dalam pemilihan design.
 
-Design 1 (Lisa Arief): Dibuat dengan Figma
-Design 2 (Novitasari): Dibuat dengan Canva
+  Design 1 (Lisa Arief): Dibuat dengan Figma
+
+  Design 2 (Novitasari): Dibuat dengan Canva
 
 Berikut perbandingan Design 1 dan Design 2
                         
